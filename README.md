@@ -7,7 +7,7 @@
 
 ---
 
-### Dashboard Link: [Insert Your Tableau Public Link Here]
+### Dashboard Link: [https://github.com/tyagi-4080/Student-depression-data-analysis/blob/main/Tableau%20Desktop%20Dashboard%20-%201%20(%20Student%20Depression%20).twb]
 
 ---
 
